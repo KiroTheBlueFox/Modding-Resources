@@ -62,6 +62,7 @@ This page serves as a central index for the various resources we share and provi
 - [**Minecraft Anntations**](https://github.com/mezz/MinecraftAnnotations/) - External fix for null/nonnull annotations.
 - [**BetterCF**](https://addons.mozilla.org/en-US/firefox/addon/bettercf) - A FireFox extension which adds several useful utilities to CurseForge, such as in browser maven info for Curse files.
 - [**CurseForge Maven Helper**](https://github.com/Wyn-Price/CurseForge-Maven-Helper/releases/latest) - A client side app by Wyn Price, which can generate maven info from a CurseForge file.
+- [**KiroTheBlueFox's Model to Collision boxes tool**](https://github.com/KiroTheBlueFox/modeltocollisionboxesminecraft) - A simple tool to generate all the collision boxes from a block .json model file.
 
 ### Git Clients
 - [**GitKraken**](https://www.gitkraken.com/) - A somewhat advanced git clinet. 
